@@ -1,0 +1,181 @@
+Transaction_ID,Date,Department,Category,Type,Actual_Amount_GHS,Budget_Amount_GHS,Payment_Method,Location
+TXN-0001,2026-03-10,Sales,Office Supplies,Expense,5486,5679,Bank,Kumasi
+TXN-0002,2026-04-06,Administration,Sales,Revenue,17011,15857,Mobile Money,Takoradi
+TXN-0003,2026-05-23,Operations,Utilities,Expense,113,122,Cash,Kumasi
+TXN-0004,2026-03-28,Operations,Rent,Expense,1822,1586,Bank,Takoradi
+TXN-0005,2026-06-24,Finance,Marketing,Expense,3414,3855,Bank,Accra
+TXN-0006,2026-01-24,Finance,Utilities,Expense,3571,4218,Mobile Money,Kumasi
+TXN-0007,2026-05-19,Operations,Rent,Expense,2660,3082,Mobile Money,Accra
+TXN-0008,2026-05-10,Administration,Rent,Expense,784,776,Mobile Money,Takoradi
+TXN-0009,2026-05-03,Finance,Office Supplies,Expense,5091,5012,Mobile Money,Takoradi
+TXN-0010,2026-02-19,Sales,Consulting,Revenue,9770,9348,Mobile Money,Kumasi
+TXN-0011,2026-01-30,Sales,Transport,Expense,2167,2020,Cash,Takoradi
+TXN-0012,2026-01-08,Administration,Rent,Expense,3220,3664,Bank,Takoradi
+TXN-0013,2026-02-26,Operations,Sales,Revenue,15199,13117,Mobile Money,Accra
+TXN-0014,2026-02-15,Finance,Utilities,Expense,738,807,Cash,Kumasi
+TXN-0015,2026-03-30,Finance,Office Supplies,Expense,5032,5398,Mobile Money,Kumasi
+TXN-0016,2026-02-23,Administration,Marketing,Expense,2882,2734,Mobile Money,Kumasi
+TXN-0017,2026-02-12,Sales,Utilities,Expense,3907,4584,Bank,Accra
+TXN-0018,2026-06-05,Sales,Utilities,Expense,154,181,Bank,Accra
+TXN-0019,2026-05-09,Finance,Sales,Revenue,2511,2320,Cash,Takoradi
+TXN-0020,2026-01-07,Sales,Rent,Expense,2741,3175,Mobile Money,Accra
+TXN-0021,2026-05-15,Sales,Utilities,Expense,4214,4286,Cash,Takoradi
+TXN-0022,2026-02-11,Finance,Office Supplies,Expense,3776,3594,Cash,Kumasi
+TXN-0023,2026-02-24,Sales,Office Supplies,Expense,6112,5804,Bank,Takoradi
+TXN-0024,2026-06-27,Sales,Sales,Revenue,2093,1861,Cash,Accra
+TXN-0025,2026-02-21,Finance,Utilities,Expense,3665,3720,Mobile Money,Takoradi
+TXN-0026,2026-01-11,Finance,Transport,Expense,3521,3524,Cash,Accra
+TXN-0027,2026-04-05,Operations,Marketing,Expense,5327,5899,Bank,Takoradi
+TXN-0028,2026-01-08,Administration,Rent,Expense,410,477,Mobile Money,Accra
+TXN-0029,2026-01-26,Sales,Software,Expense,5918,5761,Cash,Takoradi
+TXN-0030,2026-06-09,Administration,Office Supplies,Expense,5106,4562,Mobile Money,Accra
+TXN-0031,2026-04-15,Sales,Consulting,Revenue,12857,12176,Bank,Takoradi
+TXN-0032,2026-03-21,Administration,Consulting,Revenue,11377,12045,Cash,Accra
+TXN-0033,2026-02-23,Administration,Sales,Revenue,17184,17818,Bank,Accra
+TXN-0034,2026-04-27,Finance,Marketing,Expense,2052,2379,Bank,Accra
+TXN-0035,2026-04-04,Administration,Marketing,Expense,2391,2742,Cash,Accra
+TXN-0036,2026-05-09,Administration,Rent,Expense,5818,5622,Cash,Takoradi
+TXN-0037,2026-04-28,Finance,Utilities,Expense,3865,4347,Bank,Kumasi
+TXN-0038,2026-05-14,Finance,Software,Expense,5616,5638,Bank,Takoradi
+TXN-0039,2026-03-31,Sales,Transport,Expense,6342,7016,Cash,Kumasi
+TXN-0040,2026-02-13,Operations,Transport,Expense,1213,1233,Cash,Kumasi
+TXN-0041,2026-04-20,Sales,Sales,Revenue,13153,12307,Cash,Takoradi
+TXN-0042,2026-02-07,Finance,Marketing,Expense,1130,1063,Mobile Money,Takoradi
+TXN-0043,2026-04-16,Sales,Software,Expense,3572,3808,Cash,Kumasi
+TXN-0044,2026-05-07,Operations,Software,Expense,3251,3832,Bank,Accra
+TXN-0045,2026-01-29,Finance,Transport,Expense,2294,2369,Mobile Money,Takoradi
+TXN-0046,2026-03-20,Sales,Marketing,Expense,6414,5760,Bank,Takoradi
+TXN-0047,2026-05-23,Operations,Sales,Revenue,11306,9754,Bank,Accra
+TXN-0048,2026-03-17,Sales,Utilities,Expense,1656,1976,Mobile Money,Accra
+TXN-0049,2026-04-04,Administration,Consulting,Revenue,17526,17716,Bank,Takoradi
+TXN-0050,2026-06-16,Administration,Sales,Revenue,5349,5831,Mobile Money,Kumasi
+TXN-0051,2026-04-02,Administration,Office Supplies,Expense,5294,6057,Mobile Money,Accra
+TXN-0052,2026-01-06,Sales,Transport,Expense,1370,1400,Mobile Money,Accra
+TXN-0053,2026-05-21,Sales,Software,Expense,3424,4064,Bank,Accra
+TXN-0054,2026-01-16,Finance,Marketing,Expense,1998,1773,Bank,Accra
+TXN-0055,2026-01-08,Finance,Utilities,Expense,1027,1119,Mobile Money,Accra
+TXN-0056,2026-06-11,Sales,Office Supplies,Expense,1792,1812,Cash,Takoradi
+TXN-0057,2026-03-03,Sales,Marketing,Expense,3301,2906,Bank,Takoradi
+TXN-0058,2026-02-06,Administration,Marketing,Expense,2542,2269,Mobile Money,Accra
+TXN-0059,2026-01-04,Administration,Transport,Expense,1717,1596,Cash,Takoradi
+TXN-0060,2026-04-14,Administration,Marketing,Expense,6303,6058,Cash,Kumasi
+TXN-0061,2026-06-09,Sales,Utilities,Expense,5306,5505,Bank,Accra
+TXN-0062,2026-04-09,Operations,Marketing,Expense,2283,2429,Mobile Money,Takoradi
+TXN-0063,2026-03-13,Finance,Office Supplies,Expense,2165,2100,Bank,Takoradi
+TXN-0064,2026-02-14,Sales,Office Supplies,Expense,3071,3199,Cash,Kumasi
+TXN-0065,2026-04-06,Sales,Transport,Expense,3006,3509,Mobile Money,Takoradi
+TXN-0066,2026-01-19,Operations,Office Supplies,Expense,1517,1621,Cash,Takoradi
+TXN-0067,2026-06-07,Operations,Marketing,Expense,2966,3412,Cash,Kumasi
+TXN-0068,2026-06-18,Sales,Marketing,Expense,5361,5302,Mobile Money,Takoradi
+TXN-0069,2026-06-21,Operations,Consulting,Revenue,4514,5009,Cash,Accra
+TXN-0070,2026-02-13,Finance,Transport,Expense,3690,3431,Mobile Money,Accra
+TXN-0071,2026-02-20,Operations,Utilities,Expense,2344,2515,Mobile Money,Accra
+TXN-0072,2026-03-21,Administration,Office Supplies,Expense,3855,3455,Cash,Kumasi
+TXN-0073,2026-04-10,Operations,Office Supplies,Expense,3044,2878,Bank,Takoradi
+TXN-0074,2026-05-09,Sales,Office Supplies,Expense,5500,5950,Cash,Kumasi
+TXN-0075,2026-02-04,Sales,Transport,Expense,301,263,Cash,Takoradi
+TXN-0076,2026-05-04,Administration,Transport,Expense,1341,1463,Mobile Money,Kumasi
+TXN-0077,2026-03-08,Finance,Rent,Expense,3562,3543,Bank,Accra
+TXN-0078,2026-01-30,Operations,Office Supplies,Expense,4451,4262,Bank,Accra
+TXN-0079,2026-05-12,Finance,Software,Expense,4116,3941,Bank,Accra
+TXN-0080,2026-04-08,Sales,Utilities,Expense,4431,5177,Bank,Accra
+TXN-0081,2026-05-22,Sales,Utilities,Expense,987,1112,Bank,Takoradi
+TXN-0082,2026-01-28,Operations,Office Supplies,Expense,4109,4380,Mobile Money,Takoradi
+TXN-0083,2026-04-22,Administration,Sales,Revenue,11070,9480,Cash,Kumasi
+TXN-0084,2026-01-22,Administration,Software,Expense,736,766,Mobile Money,Takoradi
+TXN-0085,2026-05-20,Sales,Software,Expense,166,190,Cash,Accra
+TXN-0086,2026-03-27,Sales,Sales,Revenue,3581,3610,Cash,Accra
+TXN-0087,2026-04-15,Administration,Transport,Expense,2392,2702,Mobile Money,Accra
+TXN-0088,2026-03-15,Sales,Sales,Revenue,13104,13860,Bank,Takoradi
+TXN-0089,2026-01-11,Operations,Consulting,Revenue,4962,5670,Bank,Takoradi
+TXN-0090,2026-02-04,Operations,Rent,Expense,4224,4378,Mobile Money,Kumasi
+TXN-0091,2026-04-14,Sales,Utilities,Expense,259,280,Cash,Takoradi
+TXN-0092,2026-06-29,Sales,Office Supplies,Expense,2772,3085,Bank,Kumasi
+TXN-0093,2026-04-22,Finance,Software,Expense,1788,1625,Mobile Money,Kumasi
+TXN-0094,2026-03-16,Sales,Marketing,Expense,870,926,Cash,Kumasi
+TXN-0095,2026-01-11,Finance,Marketing,Expense,4738,4529,Cash,Takoradi
+TXN-0096,2026-02-05,Operations,Marketing,Expense,571,668,Mobile Money,Takoradi
+TXN-0097,2026-02-01,Finance,Utilities,Expense,815,966,Mobile Money,Accra
+TXN-0098,2026-06-23,Finance,Software,Expense,2889,3465,Cash,Accra
+TXN-0099,2026-03-23,Sales,Marketing,Expense,2862,2484,Mobile Money,Takoradi
+TXN-0100,2026-02-22,Finance,Office Supplies,Expense,1896,2023,Mobile Money,Kumasi
+TXN-0101,2026-02-11,Administration,Office Supplies,Expense,4313,3971,Mobile Money,Kumasi
+TXN-0102,2026-02-18,Operations,Marketing,Expense,5653,5071,Mobile Money,Kumasi
+TXN-0103,2026-02-09,Administration,Office Supplies,Expense,1039,956,Bank,Accra
+TXN-0104,2026-06-09,Administration,Transport,Expense,678,654,Mobile Money,Accra
+TXN-0105,2026-06-17,Operations,Software,Expense,3308,3863,Mobile Money,Takoradi
+TXN-0106,2026-06-16,Operations,Rent,Expense,4828,4347,Mobile Money,Kumasi
+TXN-0107,2026-01-12,Administration,Rent,Expense,2009,2039,Mobile Money,Accra
+TXN-0108,2026-01-23,Operations,Rent,Expense,3871,4115,Bank,Kumasi
+TXN-0109,2026-03-12,Operations,Rent,Expense,4331,4513,Mobile Money,Takoradi
+TXN-0110,2026-03-06,Sales,Transport,Expense,747,737,Mobile Money,Takoradi
+TXN-0111,2026-04-20,Operations,Sales,Revenue,2557,2519,Bank,Takoradi
+TXN-0112,2026-05-23,Finance,Software,Expense,1598,1734,Bank,Accra
+TXN-0113,2026-04-14,Finance,Rent,Expense,2549,2664,Cash,Takoradi
+TXN-0114,2026-05-11,Finance,Consulting,Revenue,6956,7567,Bank,Kumasi
+TXN-0115,2026-03-27,Finance,Sales,Revenue,1549,1386,Bank,Kumasi
+TXN-0116,2026-03-09,Finance,Marketing,Expense,2595,2860,Mobile Money,Takoradi
+TXN-0117,2026-04-23,Finance,Rent,Expense,4974,5615,Mobile Money,Kumasi
+TXN-0118,2026-04-06,Finance,Software,Expense,2394,2800,Bank,Kumasi
+TXN-0119,2026-02-28,Sales,Transport,Expense,5802,5593,Cash,Kumasi
+TXN-0120,2026-01-02,Finance,Marketing,Expense,1079,949,Bank,Accra
+TXN-0121,2026-05-08,Administration,Office Supplies,Expense,5665,5880,Mobile Money,Takoradi
+TXN-0122,2026-06-27,Operations,Software,Expense,651,574,Mobile Money,Kumasi
+TXN-0123,2026-06-26,Administration,Rent,Expense,6200,7104,Cash,Takoradi
+TXN-0124,2026-03-02,Operations,Transport,Expense,485,412,Cash,Kumasi
+TXN-0125,2026-05-24,Operations,Software,Expense,2663,2968,Bank,Accra
+TXN-0126,2026-02-03,Administration,Software,Expense,746,796,Bank,Kumasi
+TXN-0127,2026-03-12,Sales,Office Supplies,Expense,3011,2639,Cash,Accra
+TXN-0128,2026-03-28,Operations,Consulting,Revenue,15087,13892,Bank,Kumasi
+TXN-0129,2026-02-22,Finance,Rent,Expense,6497,7155,Mobile Money,Accra
+TXN-0130,2026-01-28,Operations,Transport,Expense,520,621,Bank,Kumasi
+TXN-0131,2026-04-05,Administration,Consulting,Revenue,8093,7297,Mobile Money,Accra
+TXN-0132,2026-01-21,Operations,Consulting,Revenue,12740,14037,Bank,Takoradi
+TXN-0133,2026-05-08,Operations,Rent,Expense,2863,2861,Mobile Money,Accra
+TXN-0134,2026-04-24,Finance,Transport,Expense,6285,5591,Bank,Kumasi
+TXN-0135,2026-01-14,Finance,Sales,Revenue,9087,9817,Cash,Accra
+TXN-0136,2026-06-10,Sales,Software,Expense,3498,4030,Bank,Accra
+TXN-0137,2026-06-22,Finance,Office Supplies,Expense,919,1097,Cash,Takoradi
+TXN-0138,2026-05-29,Administration,Software,Expense,2637,2839,Cash,Kumasi
+TXN-0139,2026-05-21,Operations,Utilities,Expense,4000,3967,Mobile Money,Accra
+TXN-0140,2026-03-26,Operations,Office Supplies,Expense,1503,1656,Cash,Kumasi
+TXN-0141,2026-02-23,Finance,Consulting,Revenue,6003,6588,Bank,Kumasi
+TXN-0142,2026-02-27,Administration,Software,Expense,4991,5459,Bank,Accra
+TXN-0143,2026-05-21,Operations,Marketing,Expense,4167,4006,Cash,Accra
+TXN-0144,2026-05-19,Operations,Sales,Revenue,4589,5104,Mobile Money,Kumasi
+TXN-0145,2026-05-25,Administration,Software,Expense,2426,2446,Cash,Takoradi
+TXN-0146,2026-06-27,Finance,Consulting,Revenue,1383,1226,Mobile Money,Takoradi
+TXN-0147,2026-02-07,Finance,Sales,Revenue,7615,7689,Bank,Accra
+TXN-0148,2026-04-09,Finance,Software,Expense,3684,3933,Mobile Money,Kumasi
+TXN-0149,2026-01-12,Operations,Software,Expense,1540,1497,Cash,Accra
+TXN-0150,2026-06-21,Administration,Transport,Expense,5324,5551,Mobile Money,Accra
+TXN-0151,2026-02-23,Operations,Software,Expense,2721,2545,Bank,Takoradi
+TXN-0152,2026-06-04,Operations,Office Supplies,Expense,3825,4422,Bank,Takoradi
+TXN-0153,2026-05-19,Operations,Consulting,Revenue,3143,2757,Cash,Kumasi
+TXN-0154,2026-02-01,Administration,Marketing,Expense,4235,4168,Mobile Money,Takoradi
+TXN-0155,2026-01-15,Sales,Software,Expense,5660,5249,Cash,Kumasi
+TXN-0156,2026-06-23,Operations,Consulting,Revenue,12054,11279,Bank,Takoradi
+TXN-0157,2026-06-07,Finance,Software,Expense,5134,5827,Bank,Kumasi
+TXN-0158,2026-05-12,Operations,Sales,Revenue,10160,9570,Bank,Accra
+TXN-0159,2026-06-04,Sales,Office Supplies,Expense,5103,5188,Bank,Takoradi
+TXN-0160,2026-02-14,Administration,Sales,Revenue,10293,10574,Bank,Accra
+TXN-0161,2026-04-06,Finance,Office Supplies,Expense,4714,4987,Bank,Kumasi
+TXN-0162,2026-03-22,Administration,Marketing,Expense,6392,7327,Bank,Takoradi
+TXN-0163,2026-06-23,Sales,Software,Expense,2674,2382,Cash,Accra
+TXN-0164,2026-03-18,Operations,Software,Expense,5242,5771,Bank,Takoradi
+TXN-0165,2026-01-18,Administration,Utilities,Expense,1645,1827,Bank,Kumasi
+TXN-0166,2026-06-27,Administration,Consulting,Revenue,4362,4058,Mobile Money,Takoradi
+TXN-0167,2026-06-15,Administration,Rent,Expense,2110,2032,Bank,Takoradi
+TXN-0168,2026-02-14,Operations,Software,Expense,5708,6209,Cash,Kumasi
+TXN-0169,2026-04-28,Sales,Transport,Expense,2202,2252,Bank,Takoradi
+TXN-0170,2026-05-13,Sales,Utilities,Expense,6176,5747,Bank,Accra
+TXN-0171,2026-04-28,Operations,Consulting,Revenue,16199,18623,Cash,Kumasi
+TXN-0172,2026-03-20,Administration,Consulting,Revenue,5728,6272,Mobile Money,Takoradi
+TXN-0173,2026-04-17,Sales,Software,Expense,4093,4304,Cash,Kumasi
+TXN-0174,2026-06-17,Finance,Transport,Expense,6214,6615,Cash,Accra
+TXN-0175,2026-04-25,Operations,Transport,Expense,321,311,Cash,Takoradi
+TXN-0176,2026-02-11,Sales,Marketing,Expense,1280,1521,Bank,Takoradi
+TXN-0177,2026-02-26,Sales,Software,Expense,1245,1449,Mobile Money,Kumasi
+TXN-0178,2026-01-23,Administration,Sales,Revenue,8556,9371,Mobile Money,Kumasi
+TXN-0179,2026-01-27,Administration,Transport,Expense,1841,2105,Cash,Kumasi
+TXN-0180,2026-04-01,Finance,Office Supplies,Expense,5112,5599,Mobile Money,Takoradi
